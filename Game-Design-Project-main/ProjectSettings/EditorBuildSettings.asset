@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StartCutscene.unity
     guid: 5b9c9e1f85495c74486f94ce80261fcc
   - enabled: 1
@@ -15,8 +15,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Decision 1.unity
     guid: 40edd3b849c60d342881d2e5de1b412f
   - enabled: 1
+    path: Assets/Scenes/Dialogue1.unity
+    guid: 6c11c1ea5a6e241c4b7d2914b73aa91d
+  - enabled: 1
     path: Assets/Scenes/Decision 2.unity
     guid: 62b38499ebef74971a6746aa24073840
+  - enabled: 1
+    path: Assets/Scenes/Dialogue2.unity
+    guid: 1027a912d7bcd4490b46b34ebcfc8870
   - enabled: 1
     path: Assets/Scenes/Decision 3.unity
     guid: fc93f83b9aceb445f89bc319ea814218
